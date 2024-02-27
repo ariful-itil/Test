@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\INFINITY\\Desktop\\BlazorApps\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE97509F-183F-4BDD-AD36-815934329320}|BlazorApp\\BlazorApp.csproj|c:\\users\\infinity\\desktop\\blazorapps\\blazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE97509F-183F-4BDD-AD36-815934329320}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE97509F-183F-4BDD-AD36-815934329320}|BlazorApp\\BlazorApp.csproj|c:\\users\\infinity\\desktop\\blazorapps\\blazorapp\\blazorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BE97509F-183F-4BDD-AD36-815934329320}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\blazorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE97509F-183F-4BDD-AD36-815934329320}|BlazorApp\\BlazorApp.csproj|c:\\users\\infinity\\desktop\\blazorapps\\blazorapp\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE97509F-183F-4BDD-AD36-815934329320}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE97509F-183F-4BDD-AD36-815934329320}|BlazorApp\\BlazorApp.csproj|c:\\users\\infinity\\desktop\\blazorapps\\blazorapp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE97509F-183F-4BDD-AD36-815934329320}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE97509F-183F-4BDD-AD36-815934329320}|BlazorApp\\BlazorApp.csproj|c:\\users\\infinity\\desktop\\blazorapps\\blazorapp\\authentication\\customauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE97509F-183F-4BDD-AD36-815934329320}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\authentication\\customauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE97509F-183F-4BDD-AD36-815934329320}|BlazorApp\\BlazorApp.csproj|c:\\users\\infinity\\desktop\\blazorapps\\blazorapp\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE97509F-183F-4BDD-AD36-815934329320}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE97509F-183F-4BDD-AD36-815934329320}|BlazorApp\\BlazorApp.csproj|c:\\users\\infinity\\desktop\\blazorapps\\blazorapp\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE97509F-183F-4BDD-AD36-815934329320}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE97509F-183F-4BDD-AD36-815934329320}|BlazorApp\\BlazorApp.csproj|c:\\users\\infinity\\desktop\\blazorapps\\blazorapp\\pages\\registerpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE97509F-183F-4BDD-AD36-815934329320}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\pages\\registerpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8ECD48D-8ABA-4897-9AE8-4447F1625EF2}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\infinity\\desktop\\blazorapps\\classlibrary\\genericmodels\\generics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8ECD48D-8ABA-4897-9AE8-4447F1625EF2}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\genericmodels\\generics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlazorApp.csproj",
+              "DocumentMoniker": "C:\\Users\\INFINITY\\Desktop\\BlazorApps\\BlazorApp\\BlazorApp.csproj",
+              "RelativeDocumentMoniker": "BlazorApp\\BlazorApp.csproj",
+              "ToolTip": "C:\\Users\\INFINITY\\Desktop\\BlazorApps\\BlazorApp\\BlazorApp.csproj",
+              "RelativeToolTip": "BlazorApp\\BlazorApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-11T11:31:57.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\INFINITY\\Desktop\\BlazorApps\\BlazorApp\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorApp\\Program.cs",
+              "ToolTip": "C:\\Users\\INFINITY\\Desktop\\BlazorApps\\BlazorApp\\Program.cs",
+              "RelativeToolTip": "BlazorApp\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-11T11:29:08.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\INFINITY\\Desktop\\BlazorApps\\BlazorApp\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "BlazorApp\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\INFINITY\\Desktop\\BlazorApps\\BlazorApp\\Services\\AccountService.cs",
+              "RelativeToolTip": "BlazorApp\\Services\\AccountService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwCQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-11T11:07:22.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomAuthenticationStateProvider.cs",
+              "DocumentMoniker": "C:\\Users\\INFINITY\\Desktop\\BlazorApps\\BlazorApp\\Authentication\\CustomAuthenticationStateProvider.cs",
+              "RelativeDocumentMoniker": "BlazorApp\\Authentication\\CustomAuthenticationStateProvider.cs",
+              "ToolTip": "C:\\Users\\INFINITY\\Desktop\\BlazorApps\\BlazorApp\\Authentication\\CustomAuthenticationStateProvider.cs",
+              "RelativeToolTip": "BlazorApp\\Authentication\\CustomAuthenticationStateProvider.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-11T10:31:37.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\INFINITY\\Desktop\\BlazorApps\\BlazorApp\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "BlazorApp\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\INFINITY\\Desktop\\BlazorApps\\BlazorApp\\Pages\\Weather.razor",
+              "RelativeToolTip": "BlazorApp\\Pages\\Weather.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-11T10:10:46.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\INFINITY\\Desktop\\BlazorApps\\BlazorApp\\App.razor",
+              "RelativeDocumentMoniker": "BlazorApp\\App.razor",
+              "ToolTip": "C:\\Users\\INFINITY\\Desktop\\BlazorApps\\BlazorApp\\App.razor",
+              "RelativeToolTip": "BlazorApp\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-11T10:03:39.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\INFINITY\\Desktop\\BlazorApps\\BlazorApp\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorApp\\_Imports.razor",
+              "ToolTip": "C:\\Users\\INFINITY\\Desktop\\BlazorApps\\BlazorApp\\_Imports.razor",
+              "RelativeToolTip": "BlazorApp\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-11T10:03:35.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterPage.razor",
+              "DocumentMoniker": "C:\\Users\\INFINITY\\Desktop\\BlazorApps\\BlazorApp\\Pages\\RegisterPage.razor",
+              "RelativeDocumentMoniker": "BlazorApp\\Pages\\RegisterPage.razor",
+              "ToolTip": "C:\\Users\\INFINITY\\Desktop\\BlazorApps\\BlazorApp\\Pages\\RegisterPage.razor",
+              "RelativeToolTip": "BlazorApp\\Pages\\RegisterPage.razor",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-11T09:02:30.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Generics.cs",
+              "DocumentMoniker": "C:\\Users\\INFINITY\\Desktop\\BlazorApps\\ClassLibrary\\GenericModels\\Generics.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\GenericModels\\Generics.cs",
+              "ToolTip": "C:\\Users\\INFINITY\\Desktop\\BlazorApps\\ClassLibrary\\GenericModels\\Generics.cs",
+              "RelativeToolTip": "ClassLibrary\\GenericModels\\Generics.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-11T09:01:41.266Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
